@@ -1,17 +1,16 @@
 import React from 'react';
 import {Card,Button} from "react-bootstrap"
 
- export const FetchingDataFromJsonChild = () => {
+ export const FetchingDataFromJsonChild = ({itemCurrent}) => {
     return (
         <div>
             <h1>helloooo gyj</h1>
             <Card style={{ width: '18rem' }}>
-  <Card.Img variant="top" src="Assets/logo192.png" />
+  <Card.Img variant="top" src={itemCurrent.image} atl="image" />
   <Card.Body>
-    <Card.Title>Card Title</Card.Title>
+    <Card.Title>React</Card.Title>
     <Card.Text>
-      Some quick example text to build on the card title and make up the bulk of
-      the card's content.
+     this is react app
     </Card.Text>
     <Button variant="primary">Go somewhere</Button>
   </Card.Body>

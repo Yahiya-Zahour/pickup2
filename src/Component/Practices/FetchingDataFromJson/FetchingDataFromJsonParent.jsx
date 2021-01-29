@@ -1,10 +1,14 @@
 import React from 'react';
-
 import {FetchingDataFromJsonChild} from "../FetchingDataFromJson/FetchingDataFromJsonChild";
+import {PersonReducers} from "../../State/Reducers/PersonReducer";
 export const FetchingDataFromJsonParent = () => {
+    console.log("testing personReducer=>=>=>=>", PersonReducers);
     return (
         <div>
-            <FetchingDataFromJsonChild/>
+        {PersonReducers.personDetail.map((item)=> {
+            return <FetchingDataFromJsonChild itemCurrent={item}/>;
+        })}
+            
         </div>
     );
 };
