@@ -15,6 +15,14 @@ export class ClassParent extends Component {
                 <ClassChild name="yahiya" age="17"/>
                 <ClassChild name="muhammad"age="19"/>
                 <ClassChild name={this.state.person[2].name} age={this.state.person[2].age}/>
+                <button>login</button>
+            <button>login</button>
+            <button>login</button>
+            <button>login</button>
+            <button>login</button>
+            <button>login</button>
+            <button>login</button>
+            <button>login</button>
             </div>
         );
     }
