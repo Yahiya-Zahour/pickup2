@@ -1,13 +1,18 @@
 import React from 'react';
 import { ClassParent } from '../ClassComponent/ClassParent';
+import CounterPractice from '../Practice/UseStatePractice/CounterPractice/CounterPractice';
 // import {ClassComponent} from './ClassPairent';
 // import {ClassPairent} from "./ClassComponent/ClassPairent";
 
 
  export const Landing = () => {
-    return <div>
+    return (
+    <div>
           {/* <ClassPairent /> */}
-          <ClassParent/>
+          {/* <ClassParent/> */}
+          <CounterPractice/>
+          {/* <CounterPractice.css/> */}
             
-        </div>;
+        </div>
+        );
 };
