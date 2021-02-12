@@ -11,9 +11,9 @@ import CounterPractice from '../Practice/UseStatePractice/CounterPractice/Counte
     <div>
           {/* <ClassPairent /> */}
           {/* <ClassParent/> */}
-          {/* <CounterPractice/> */}
-          {/* <CounterPractice.css/> */}
-          <MainHeader/>
+          <CounterPractice/>
+          <CounterPractice.css/>
+          {/* <MainHeader/> */}
             
         </div>
         );
