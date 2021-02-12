@@ -18,24 +18,7 @@ import React,{useState} from 'react';
             <button onClick={handleDeleteCounter}>Delete</button>
             <h1>Increase Number...</h1><button>{addNumber}</button>
             <br/>
-            <br/>
-            <button  onClick={handleCounter}>Add</button>
-            <h1>Decrease Number...</h1>
-            <button onClick={handleDeleteCounter}>Delete</button>
-            <h1>Increase Number...</h1><button>{addNumber}</button>
-            <br/>
-            <br/>
-            <button  onClick={handleCounter}>Add</button>
-            <h1>Decrease Number...</h1>
-            <button onClick={handleDeleteCounter}>Delete</button>
-            <h1>Increase Number...</h1><button>{addNumber}</button>
-            <br/>
-            <br/>
-            <button  onClick={handleCounter}>Add</button>
-            <h1>Decrease Number...</h1>
-            <button onClick={handleDeleteCounter}>Delete</button>
-            <button>login</button>
-            <button>login</button>   <button>login</button>   <button>login</button>   <button>login</button>
+         
         </div>
     );
 };
