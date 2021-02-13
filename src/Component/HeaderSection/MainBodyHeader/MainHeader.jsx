@@ -21,6 +21,10 @@ export const MainHeader = () => {
   <button>login</button>
   <button>login</button>  <button>login</button>
   <button>login</button>
+  <br />
+  <button>login</button>
+  <button>login</button>  <button>login</button>
+  <button>login</button>
         </div>
  );
 }
