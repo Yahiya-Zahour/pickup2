@@ -18,9 +18,7 @@ export const MainHeader = () => {
     </Form>
   </Navbar>
   <br />
-  <button>login</button>
-  <button>login</button>  <button>login</button>
-  <button>login</button>
+
         </div>
  );
 }
