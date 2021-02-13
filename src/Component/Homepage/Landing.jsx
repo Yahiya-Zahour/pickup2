@@ -16,7 +16,7 @@ import { FetchingDataFromJsonParent } from '../Practices/FetchingDataFromJson/Fe
           {/* <CounterPractice/> */}
           {/* <CounterPractice.css/> */}
           {/* <MainHeader/> */}
-          <FetchingDataFromJsonChild/>
+          {/* <FetchingDataFromJsonChild/> */}
           <FetchingDataFromJsonParent/>
             
         </div>
