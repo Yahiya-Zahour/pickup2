@@ -19,6 +19,7 @@ export const MainHeader = () => {
   </Navbar>
   <br />
   <button>login</button>
+  <button>login</button>
         </div>
  );
 }
