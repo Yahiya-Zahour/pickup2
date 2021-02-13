@@ -1,4 +1,5 @@
 import React from 'react';
+import {MainHeader} from "../HeaderSection/MainBodyHeader/MainHeader";
 import { ClassParent } from '../ClassComponent/ClassParent';
 import CounterPractice from '../Practice/UseStatePractice/CounterPractice/CounterPractice';
 // import {ClassComponent} from './ClassPairent';
@@ -10,8 +11,9 @@ import CounterPractice from '../Practice/UseStatePractice/CounterPractice/Counte
     <div>
           {/* <ClassPairent /> */}
           {/* <ClassParent/> */}
-          <CounterPractice/>
+          {/* <CounterPractice/> */}
           {/* <CounterPractice.css/> */}
+          <MainHeader/>
             
         </div>
         );
