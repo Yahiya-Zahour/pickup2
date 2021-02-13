@@ -1,4 +1,4 @@
-const PersonReducers={
+export const PersonReducers={
     personDetail:[
         {id:"1qwe" name:"sam",age:"27",description: `he is 1st year student`},
         {id:"2qwe"name:"adil",age:"23",description:` he 2nd year student`},
