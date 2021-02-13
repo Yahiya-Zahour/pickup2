@@ -6,7 +6,7 @@ import {Card,Button} from "react-bootstrap"
         <div>
             <h1>helloooo gyj</h1>
             <Card style={{ width: '18rem' }}>
-  <Card.Img variant="top" src="holder.js/100px180" />
+  <Card.Img variant="top" src="Assets/logo192.png" />
   <Card.Body>
     <Card.Title>Card Title</Card.Title>
     <Card.Text>
