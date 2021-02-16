@@ -1,6 +1,7 @@
-const groupReducer=(state=groupsDefaultstate,action)=>{
-
+const groupReducer=(state=groupsDefaultstate,action)=>{switch(action.type){
+    case "ADD_NEW_GROUP";
 }
+};
 
 const groupsDefaultstate ={
     groups:[
