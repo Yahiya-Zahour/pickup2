@@ -13,9 +13,7 @@ import {Card,Button} from "react-bootstrap"
      this is react app
     </Card.Text>
     <Button variant="primary">Go somewhere</Button>
-    <Button variant="primary">Go somewhere</Button><Button variant="primary">Go somewhere</Button>
- 
-    
+  
   </Card.Body>
 </Card>
         </div>
