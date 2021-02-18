@@ -1,9 +1,10 @@
 import React from 'react';
-import {MainHeader} from "../HeaderSection/MainBodyHeader/MainHeader";
-import { ClassParent } from '../ClassComponent/ClassParent';
-import CounterPractice from '../Practice/UseStatePractice/CounterPractice/CounterPractice';
-import { FetchingDataFromJsonChild } from '../Practices/FetchingDataFromJson/FetchingDataFromJsonChild';
-import { FetchingDataFromJsonParent } from '../Practices/FetchingDataFromJson/FetchingDataFromJsonParent';
+// import {MainHeader} from "../HeaderSection/MainBodyHeader/MainHeader";
+// import { ClassParent } from '../ClassComponent/ClassParent';
+// import CounterPractice from '../Practice/UseStatePractice/CounterPractice/CounterPractice';
+// import { FetchingDataFromJsonChild } from '../Practices/FetchingDataFromJson/FetchingDataFromJsonChild';
+// import { FetchingDataFromJsonParent } from '../Practices/FetchingDataFromJson/FetchingDataFromJsonParent';
+import { FetchingDataFromReduxparent } from '../Practices/FetchingDataFromJson/FetchingDataFromRedux/FetchingDataFromReduxparent';
 // import {ClassComponent} from './ClassPairent';
 // import {ClassPairent} from "./ClassComponent/ClassPairent";
 
@@ -17,7 +18,8 @@ import { FetchingDataFromJsonParent } from '../Practices/FetchingDataFromJson/Fe
           {/* <CounterPractice.css/> */}
           {/* <MainHeader/> */}
           {/* <FetchingDataFromJsonChild/> */}
-          <FetchingDataFromJsonParent/>
+          {/* <FetchingDataFromJsonParent/> */}
+          <FetchingDataFromReduxparent/>
             
         </div>
         );
