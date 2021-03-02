@@ -23,6 +23,21 @@ const groupsDefaultstate ={
             desc:"This is first Group created"
         }, 
         {
+            name :"learing Redux",
+            image:"Assets/pickupbiz.jpg",
+            desc:"This is first Group created"
+        }, 
+        {
+            name :"learing Redux",
+            image:"Assets/pickupbiz.jpg",
+            desc:"This is first Group created"
+        }, 
+        {
+            name :"Recat Developers",
+            image:"Assets/logo192.png",
+            desc:"This is first Group created"
+        },
+        {
             name :"Recat Developers",
             image:"Assets/logo192.png",
             desc:"This is first Group created"
