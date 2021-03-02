@@ -19,7 +19,7 @@ const groupsDefaultstate ={
         },
         {
             name :"learing Redux",
-            image:"Assets/logo192.png",
+            image:"Assets/pickupbiz.jpg",
             desc:"This is first Group created"
         }, 
         {
