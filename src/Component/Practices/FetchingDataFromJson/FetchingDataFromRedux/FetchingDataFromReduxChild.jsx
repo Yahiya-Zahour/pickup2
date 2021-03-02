@@ -5,7 +5,7 @@ export const FetchingDataFromReduxChild = ({itemCurrent}) => {
         <div>
         
             <h2>{itemCurrent.name}</h2>
-            <img src={itemCurrent.image} alt=""style={{}}/>
+            <img src={itemCurrent.image} alt=""style={{backgroundColor:"red"}}/>
         </div>
     );
 };
