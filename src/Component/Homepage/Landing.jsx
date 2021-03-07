@@ -1,5 +1,5 @@
 import React from 'react';
-// import {MainHeader} from "../HeaderSection/MainBodyHeader/MainHeader";
+import {MainHeader} from "../HeaderSection/MainBodyHeader/MainHeader";
 // import { ClassParent } from '../ClassComponent/ClassParent';
 // import CounterPractice from '../Practice/UseStatePractice/CounterPractice/CounterPractice';
 // import { FetchingDataFromJsonChild } from '../Practices/FetchingDataFromJson/FetchingDataFromJsonChild';
@@ -16,10 +16,10 @@ import { FetchingDataFromReduxparent } from '../Practices/FetchingDataFromJson/F
           {/* <ClassParent/> */}
           {/* <CounterPractice/> */}
           {/* <CounterPractice.css/> */}
-          {/* <MainHeader/> */}
+          <MainHeader/>
           {/* <FetchingDataFromJsonChild/> */}
           {/* <FetchingDataFromJsonParent/> */}
-          <FetchingDataFromReduxparent/>
+          {/* <FetchingDataFromReduxparent/> */}
             
         </div>
         );
