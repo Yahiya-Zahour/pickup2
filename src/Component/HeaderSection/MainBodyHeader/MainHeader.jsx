@@ -24,11 +24,7 @@ export const MainHeader = () => {
     <Card.Link href="#">if you are bad i m your dad</Card.Link>
   </Card.Body>
 </Card>
-<button>submit</button>
-<button>submit</button>
-<button>submit</button>
-<button>submit</button>
-<button>submit</button>
+
 
 
 
