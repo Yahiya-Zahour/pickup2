@@ -25,11 +25,7 @@ export const MainHeader = () => {
   </Card.Body>
 </Card>
 <button>submit</button>
-<button>submit</button>
-<button>submit</button>
-<button>submit</button>
-<button>submit</button>
-<button>submit</button>
+
 
 
 
