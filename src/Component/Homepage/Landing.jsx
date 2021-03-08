@@ -16,10 +16,10 @@ import { FetchingDataFromReduxparent } from '../Practices/FetchingDataFromJson/F
           {/* <ClassParent/> */}
           {/* <CounterPractice/> */}
           {/* <CounterPractice.css/> */}
-          <MainHeader/>
+          {/* <MainHeader/> */}
           {/* <FetchingDataFromJsonChild/> */}
           {/* <FetchingDataFromJsonParent/> */}
-          {/* <FetchingDataFromReduxparent/> */}
+          <FetchingDataFromReduxparent/>
             
         </div>
         );
