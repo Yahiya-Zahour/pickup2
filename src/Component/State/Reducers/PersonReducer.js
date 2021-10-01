@@ -1,6 +1,6 @@
 export const PersonReducers={
     personDetail:[
-        {id:"1qwe", name:"sam",age:"27",description: `he is 1st year student`, image:"https://dl1.cbsistatic.com/resize/90cbaef8139caff507e0ae0906f9e2907cdbf033/catalog/2020/07/29/60642903-a84c-4967-8bb7-3c584b8a4181/imgingest-3568504077216881181.jpg?width=416"},
+        {id:"1qwe", name:"sam",age:"27",description: `he is 1st year student`},
         {id:"2qwe", name:"adil",age:"23",description:` he 2nd year student`},
         {id:"3qwe",name:"rizwan",age:"24",description:` he 3nd year student`}, 
         {id:"4we",name:"asfan",age:"22",description:`4nd year student`},
